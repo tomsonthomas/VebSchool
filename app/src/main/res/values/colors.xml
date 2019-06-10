@@ -4,14 +4,15 @@
     <color name="colorPrimaryDark">#2196F3</color>
     <color name="colorAccent">#8F8B8B</color>
     <color name="colorRed">#F44336</color>
-    <color name="colorBlue">#F44336</color>
-    <color name="colorGreen">#F44336</color>
-    <color name="colorOrange">#F44336</color>
-    <color name="colorBlack">#F44336</color>
-    <color name="colorGrey">#F44336</color>
-    <color name="colorGrayLite">#F44336</color>
-    <color name="colorRedLite">#F44336</color>
-    <color name="colorBlackLite">#F44336</color>
-    <color name="colorGreenLite">#F44336</color>
-    <color name="colorGreenLite">#F44336</color>
+    <color name="colorBlue">#1B4CE7</color>
+    <color name="colorGreen">#219904</color>
+    <color name="colorOrange">#F3FDA013</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorGrey">#929292</color>
+    <color name="colorGrayLite">#C9C7C7</color>
+    <color name="colorRedLite">#F14C3F</color>
+    <color name="colorBlackLite">#363535</color>
+    <color name="colorGreenLite">#4CAF50</color>
+    <color name="colorOrangeLite">#FFC107</color>
+    
 </resources>
